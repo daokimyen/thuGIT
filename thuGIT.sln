@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thuGIT", "thuGIT.csproj", "{79615219-1545-4E48-8386-F41378AF3CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79615219-1545-4E48-8386-F41378AF3CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79615219-1545-4E48-8386-F41378AF3CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79615219-1545-4E48-8386-F41378AF3CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79615219-1545-4E48-8386-F41378AF3CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3529729E-BC7A-41C5-B5D2-2373BABA1C95}
+	EndGlobalSection
+EndGlobal
